@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "c6HIKup2NvfxUfZ/1xJgfUuhXIo/Kw/vei0D9K6Rpe9efms9JJwktvatyIcpYmpDf7yXG8wezg+unKVlcxVZeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\BYUI\\Fall_2022\\Program_files\\Greed_but_public\\Greed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
